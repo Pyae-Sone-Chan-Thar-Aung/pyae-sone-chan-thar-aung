@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Various web development projects and open-source initiatives.**
 
-- 💬 Ask me about **HTML, CSS, JS, JAVA, MySQL, Python**
+- 💬 Ask me about **HTML, CSS, JS, PHP, JAVA, MySQL, NoSQL, C, Python**
 
 - 📫 How to reach me **paung_230000001724@uic.edu.ph**
 
